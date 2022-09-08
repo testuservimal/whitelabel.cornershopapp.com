@@ -1,0 +1,1 @@
+# whitelabel.cornershopapp.com
